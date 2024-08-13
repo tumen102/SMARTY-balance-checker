@@ -1,0 +1,4 @@
+{
+    "authentication": "Bearer: 123456",
+    "useConvertedUnits": true
+}
